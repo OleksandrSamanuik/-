@@ -1,2 +1,2 @@
 Зоомагазин
-силка на сайт http://localhost/phpmyadmin/index.php?route=/database/structure&db=demo
+силка на сайт http://localhost/myshop/views/product/index.php
